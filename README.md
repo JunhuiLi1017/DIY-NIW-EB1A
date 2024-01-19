@@ -40,3 +40,12 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 - Petition letter
 - Index of exhibits
 - Supporting Documents (Exhibits)
+
+## Petition Letter
+The petition letter is the most important item in the application and requires you to put in most of your time. The key contents (six sections) of the petition letter are to prove that:
+- Section I: Dr. Ma is a member of the professions holding an advanced degree;
+- Section II: What is Dr. Ma’s proposed endeavor;
+- Section III: Dr. Ma’s proposed endeavor has both substantial merit and national importance;
+- Section IV: Dr. Ma is well-positioned to advance the proposed endeavor;
+- Section V: On balance, it would be beneficial to the United States to waive the requirements of a job offer and thus of a labor certification;
+- Section VI: Conclusion
