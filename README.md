@@ -30,9 +30,10 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 - Petition letter: the key letter to show why you will be beneficial to the United States.
 
 # Main Story
-## What is included in the mail
+## Items included in the mail
 **The forms are not difficult to fill. Make sure you sign the forms, otherwise it will be returned. Make sure you put enough information they need**
 - G-1145 clipped to the front (if you want electrical notification): https://www.uscis.gov/g-1145.
+- Cover Letter: find it in the repo.
 - Form I-140 and check: https://www.uscis.gov/i-140.
 - Form I-907 and check (if you apply for premium processing): https://www.uscis.gov/i-907.
 - Form ETA-9089 (two copies, I do not know why, but others suggested, so prepared the same two copies; I ONLY completed J, K, L, and M sections)
