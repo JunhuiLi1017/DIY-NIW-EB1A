@@ -79,7 +79,7 @@ Lastly, do not forget to summarize this section:
 </p>
 
 ### Section IV: Dr. Ma is well-positioned to advance the proposed endeavor
-This section is also a very important section to show how you meet the criterion. In this section, you need to show your works: citations, papers, international impact, etc.
+This section is also a very important section to show how you meet the criterion. In this section, you need to show your works: reviews, citations, papers, international impact, etc.
 
 #### Education, Skills, and Knowledge
 Again, show your educational background.
