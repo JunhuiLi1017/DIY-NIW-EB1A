@@ -1,4 +1,4 @@
-# NIW
+# DIY NIW
 
 # Common Questions?
 - **Why DIY for NIW**: it is easier than writing an academic paper.
