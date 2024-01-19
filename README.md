@@ -33,7 +33,7 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 
 # Main Story
 ## Items included in the mail
-**The forms are not difficult to fill. Make sure you sign the forms, otherwise it will be returned. Make sure you put enough information they need**
+**The forms are not difficult to fill (1-2 hours?). Make sure you sign the forms, otherwise it will be returned. Make sure you put enough information they need**
 - G-1145 clipped to the front (if you want electrical notification): https://www.uscis.gov/g-1145.
 - Cover Letter: find it in the repo (docs/PL_CoverLetter.pdf).
 - Form I-140 and check: https://www.uscis.gov/i-140.
