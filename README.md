@@ -84,17 +84,38 @@ Lastly, do not forget to summarize this section:
 </p>
 
 ### Section IV: Dr. Ma is well-positioned to advance the proposed endeavor
+This section is also a very important section to show how you meet the criterion. In this section, you need to show your works: citations, papers, and international impact, etc.
+
+#### Education, Skills, and Knowledge
+Again, show your educational background.
+<p align="center">
+     <img src="docs/figure8.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.6
+</p>
+Also, we may show your reviews in this subsection as follows:
+<p align="center">
+     <img src="docs/figure9.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.7
+</p>
+
+#### Record of Success in Related or Similar Efforts and Interest of Relevant Individuals
+In this section, you may show:
+- Dr. Ma ’s research has been published in some of the top publication venues in his field
+- Researchers from around the world have relied upon Dr. Ma’s research to further their own investigations in the field
+- At least x of Dr. Ma’s papers are among the most highly cited in the field of Engineering for their years of publication
+- Dr. Ma’s research is highly novel and influential in his field
+- Dr. Ma has been playing leading and active roles in the scientific community
 
 ### Section V: On balance, it would be beneficial to the United States to waive the requirements of a job offer and thus of a labor certification
 Actually, this section just follows the framework and that's enough.
 <p align="center">
      <img src="docs/figure6.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.x
+     <br>Figure.8
 </p>
 
 ### Section VI: Conclusion
 Summarize the petition letter.
 <p align="center">
      <img src="docs/figure7.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.x
+     <br>Figure.9
 </p>
