@@ -2,8 +2,9 @@
 
 # Common Questions?
 - **Why DIY for NIW**: it is easier than writing an academic paper.
-- **How long will it take**: it takes about 1 week to 1 month to prepare the materials depending on how many papers/citations you need to summarize (excluding the waiting time for recommendation letters). For myself, I have 460 citations, so it took me more than 2 weeks to finish.
+- **How long will it take**: it takes about 1 week to 1 month to prepare the materials depending on how many papers/citations you need to summarize (excluding the waiting time for recommendation letters). Even you find a lawyer, it may also take you months to finish it and you often need to write the summary of your research (the summary is the contents needed in the petition letter). For myself, I have 460 citations, so it took me more than 2 weeks to finish.
 - **When should I start**: Papers >= 2~3 (at least 1 first author?), citations >= 20, reviews >= 10. The more you have, the higher probability you will pass.
+- **Any tools I can use**: ChatGPT
 - **Any difference between TSC and NSC**: personally, i think no.
 
 ## Contents
