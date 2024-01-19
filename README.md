@@ -123,5 +123,5 @@ Summarize the petition letter.
 </p>
 
 <p align="center">
-     <img src="docs/figure.png" alt="output_example" width="80%" height="80%">
+     <img src="docs/figure.jpg" alt="output_example" width="80%" height="80%">
 </p>
