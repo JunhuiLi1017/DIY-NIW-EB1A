@@ -85,4 +85,16 @@ Lastly, do not forget to summarize this section:
 
 ### Section IV: Dr. Ma is well-positioned to advance the proposed endeavor
 
+### Section V: On balance, it would be beneficial to the United States to waive the requirements of a job offer and thus of a labor certification
+Actually, this section just follows the framework and that's enough.
+<p align="center">
+     <img src="docs/figure6.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.x
+</p>
 
+### Section VI: Conclusion
+Summarize the petition letter.
+<p align="center">
+     <img src="docs/figure7.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.x
+</p>
