@@ -42,7 +42,12 @@
 - Supporting Documents (Exhibits)
 
 ## Petition Letter
-The petition letter is the most important item in the application and requires you to put in most of your time. I attached the contents inside the PL (docs/Contents of PL.pdf). The key contents (six sections) of the petition letter are to prove that:
+The petition letter is the most important item in the application and requires you to put in most of your time. The petition letter strictly follows the official guidelines and you just follow the framework and replace the contents with your backgrounds. You may have fewer papers or citations, but the main contents are the same. 
+
+![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/d51b04f1-2c37-46c4-956b-1a8b5e3839fa)
+
+
+I attached the contents inside the PL (docs/Contents of PL.pdf). The key contents (six sections) of the petition letter are to prove that:
 - Section I: Dr. Ma is a member of the professions holding an advanced degree;
 - Section II: What is Dr. Ma’s proposed endeavor;
 - Section III: Dr. Ma’s proposed endeavor has both substantial merit and national importance;
