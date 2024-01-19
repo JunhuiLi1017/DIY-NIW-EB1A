@@ -58,3 +58,15 @@ Since I have three different research fields, thus I combined them with a loooon
 ![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/e856a2d8-3764-4268-8a24-54c1ee9241dd)
 
 ### Section III: Dr. Ma’s proposed endeavor has both substantial merit and national importance
+This section is very important! You need to illustrate why your research is crucial to the US. The proof should be specific and you need to find specific policies or data (search via Google, e.g., AI for autonomous driving US government policies) to support your arguments. I have three different research fields. Here is one of the examples that illustrates why my research on autonomous driving has substantial merit.
+![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/e1d534f4-3efd-47b9-bdfc-8693255bdaaf)
+
+Following is an example to show why my research on autonomous driving is also of national importance:
+![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/f10e918f-da69-4036-bb96-d60833a3cb37)
+
+Lastly, do not forget to summarize this section:
+![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/beec5d2d-5b89-4f9c-b593-bbcbbb71bbeb)
+
+### Section IV: Dr. Ma is well-positioned to advance the proposed endeavor
+
+
