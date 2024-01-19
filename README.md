@@ -33,7 +33,7 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 ## Items included in the mail
 **The forms are not difficult to fill. Make sure you sign the forms, otherwise it will be returned. Make sure you put enough information they need**
 - G-1145 clipped to the front (if you want electrical notification): https://www.uscis.gov/g-1145.
-- Cover Letter: find it in the repo (PL_CoverLetter.pdf).
+- Cover Letter: find it in the repo (docs/PL_CoverLetter.pdf).
 - Form I-140 and check: https://www.uscis.gov/i-140.
 - Form I-907 and check (if you apply for premium processing): https://www.uscis.gov/i-907.
 - Form ETA-9089 (two copies, I do not know why, but others suggested, so prepared the same two copies; I ONLY completed J, K, L, and M sections)
@@ -42,7 +42,7 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 - Supporting Documents (Exhibits)
 
 ## Petition Letter
-The petition letter is the most important item in the application and requires you to put in most of your time. I attached the contents inside the PL (Contents of PL.pdf). The key contents (six sections) of the petition letter are to prove that:
+The petition letter is the most important item in the application and requires you to put in most of your time. I attached the contents inside the PL (docs/Contents of PL.pdf). The key contents (six sections) of the petition letter are to prove that:
 - Section I: Dr. Ma is a member of the professions holding an advanced degree;
 - Section II: What is Dr. Ma’s proposed endeavor;
 - Section III: Dr. Ma’s proposed endeavor has both substantial merit and national importance;
@@ -53,23 +53,35 @@ The petition letter is the most important item in the application and requires y
 ### Section I: Dr. Ma is a member of the professions holding an advanced degree
 Attaching the degrees you earned. If you do not have a degree in the US, then you may need to translate the documents.
 <p align="center">
-     <img src="docs/figure1.png" alt="output_example" width="50%" height="50%">
+     <img src="docs/figure1.png" alt="output_example" width="80%" height="80%">
      <br>Figure.1
 </p>
 
 ### Section II: What is Dr. Ma’s proposed endeavor
 Since I have three different research fields, thus I combined them with a loooong endeavor to cover all the research fields.
-![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/e856a2d8-3764-4268-8a24-54c1ee9241dd)
+<p align="center">
+     <img src="docs/figure2.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.2
+</p>
 
 ### Section III: Dr. Ma’s proposed endeavor has both substantial merit and national importance
 This section is very important! You need to illustrate why your research is crucial to the US. The proof should be specific and you need to find specific policies or data (search via Google, e.g., AI for autonomous driving US government policies) to support your arguments. I have three different research fields. Here is one of the examples that illustrates why my research on autonomous driving has substantial merit.
-![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/e1d534f4-3efd-47b9-bdfc-8693255bdaaf)
+<p align="center">
+     <img src="docs/figure3.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.3
+</p>
 
 Following is an example to show why my research on autonomous driving is also of national importance:
-![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/f10e918f-da69-4036-bb96-d60833a3cb37)
+<p align="center">
+     <img src="docs/figure4.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.4
+</p>
 
 Lastly, do not forget to summarize this section:
-![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/beec5d2d-5b89-4f9c-b593-bbcbbb71bbeb)
+<p align="center">
+     <img src="docs/figure5.png" alt="output_example" width="80%" height="80%">
+     <br>Figure.5
+</p>
 
 ### Section IV: Dr. Ma is well-positioned to advance the proposed endeavor
 
