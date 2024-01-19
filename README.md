@@ -53,7 +53,6 @@ The petition letter is the most important item in the application and requires y
 ### Section I: Dr. Ma is a member of the professions holding an advanced degree
 Attaching the degrees you earned. If you do not have a degree in the US, then you may need to translate the documents.
 ![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/5d0f8a05-c068-48c8-bed8-152ec7f3cd8c)
-
 ### Section II: What is Dr. Ma’s proposed endeavor
 Since I have three different research fields, thus I combined them with a loooong endeavor to cover all the research fields.
 ![image](https://github.com/DongChen06/NIW-EB1A/assets/25771207/e856a2d8-3764-4268-8a24-54c1ee9241dd)
