@@ -33,7 +33,7 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 ## Items included in the mail
 **The forms are not difficult to fill. Make sure you sign the forms, otherwise it will be returned. Make sure you put enough information they need**
 - G-1145 clipped to the front (if you want electrical notification): https://www.uscis.gov/g-1145.
-- Cover Letter: find it in the repo.
+- Cover Letter: find it in the repo (PL_CoverLetter.pdf).
 - Form I-140 and check: https://www.uscis.gov/i-140.
 - Form I-907 and check (if you apply for premium processing): https://www.uscis.gov/i-907.
 - Form ETA-9089 (two copies, I do not know why, but others suggested, so prepared the same two copies; I ONLY completed J, K, L, and M sections)
@@ -42,7 +42,7 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 - Supporting Documents (Exhibits)
 
 ## Petition Letter
-The petition letter is the most important item in the application and requires you to put in most of your time. The key contents (six sections) of the petition letter are to prove that:
+The petition letter is the most important item in the application and requires you to put in most of your time. I attached the contents inside the PL (Contents of PL.pdf). The key contents (six sections) of the petition letter are to prove that:
 - Section I: Dr. Ma is a member of the professions holding an advanced degree;
 - Section II: What is Dr. Ma’s proposed endeavor;
 - Section III: Dr. Ma’s proposed endeavor has both substantial merit and national importance;
