@@ -38,7 +38,7 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 - Form I-907 and check (if you apply for premium processing): https://www.uscis.gov/i-907.
 - Form ETA-9089 (two copies, I do not know why, but others suggested, so prepared the same two copies; I ONLY completed J, K, L, and M sections)
 - Petition letter: described below
-- Index of exhibits
+- Index of exhibits (a sample can be found at docs/0_IndexOfExhibit.pdf)
 - Supporting Documents (Exhibits)
 
 ## Petition Letter
