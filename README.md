@@ -6,7 +6,7 @@ This repo contains information about how to DIY NIW (EB1A will be out if I pass 
 # Common Questions?
 - **Why DIY for NIW**: it is easier than writing an academic paper.
 - **How long will it take**: it takes about 1 week to 1 month to prepare the materials depending on how many papers/citations you need to summarize (excluding the waiting time for recommendation letters). For myself, I have 460 citations, so it took me more than 2 weeks to finish.
-- **When should I start**: Papers >= 2~3 (at least 1 first author?), citations >= 20, reviews >= 10. More you have, higher probability you will pass.
+- **When should I start**: Papers >= 2~3 (at least 1 first author?), citations >= 20, reviews >= 10. The more you have, the higher probability you will pass.
 - **Any difference between TSC and NSC**: personally, i think no.
 
 ## Contents
@@ -86,7 +86,7 @@ Lastly, do not forget to summarize this section:
 </p>
 
 ### Section IV: Dr. Ma is well-positioned to advance the proposed endeavor
-This section is also a very important section to show how you meet the criterion. In this section, you need to show your works: citations, papers, and international impact, etc.
+This section is also a very important section to show how you meet the criterion. In this section, you need to show your works: citations, papers, international impact, etc.
 
 #### Education, Skills, and Knowledge
 Again, show your educational background.
@@ -102,7 +102,7 @@ Also, we may show your reviews in this subsection as follows:
 
 #### Record of Success in Related or Similar Efforts and Interest of Relevant Individuals
 In this section, you may show:
-- Dr. Ma ’s research has been published in some of the top publication venues in his field
+- Dr. Ma’s research has been published in some of the top publication venues in his field
 - Researchers from around the world have relied upon Dr. Ma’s research to further their own investigations in the field
 - At least x of Dr. Ma’s papers are among the most highly cited in the field of Engineering for their years of publication
 - Dr. Ma’s research is highly novel and influential in his field
@@ -120,4 +120,8 @@ Summarize the petition letter.
 <p align="center">
      <img src="docs/figure7.png" alt="output_example" width="80%" height="80%">
      <br>Figure.9
+</p>
+
+<p align="center">
+     <img src="docs/figure.png" alt="output_example" width="80%" height="80%">
 </p>
