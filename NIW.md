@@ -26,7 +26,7 @@
 - Quick View of USCIS Progress: https://hilites.today/.
 
 # Preparation
-- Recommendation letters: prepare ahead since some of the professors may be too busy to respond. I have 4 RLs, 2 dependent and 2 independent. Some of my friends have 1 dependent and 2 dependent.
+- Recommendation letters: prepare ahead since some professors may be too busy to respond. I have 4 RLs, 2 dependent and 2 independent. Some of my friends have 1 dependent and 2 dependent.
 - Petition letter: the key letter to show why you will be beneficial to the United States.
 
 # Main Story
