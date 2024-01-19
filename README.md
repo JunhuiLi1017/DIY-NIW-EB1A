@@ -56,33 +56,28 @@ The petition letter is the most important item in the application and requires y
 Attaching the degrees you earned. If you do not have a degree in the US, then you may need to translate the documents.
 <p align="center">
      <img src="docs/figure1.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.1
 </p>
 
 ### Section II: What is Dr. Ma’s proposed endeavor
 Since I have three different research fields, thus I combined them with a loooong endeavor to cover all the research fields.
 <p align="center">
      <img src="docs/figure2.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.2
 </p>
 
 ### Section III: Dr. Ma’s proposed endeavor has both substantial merit and national importance
 This section is very important! You need to illustrate why your research is crucial to the US. The proof should be specific and you need to find specific policies or data (search via Google, e.g., AI for autonomous driving US government policies) to support your arguments. I have three different research fields. Here is one of the examples that illustrates why my research on autonomous driving has substantial merit.
 <p align="center">
      <img src="docs/figure3.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.3
 </p>
 
 Following is an example to show why my research on autonomous driving is also of national importance:
 <p align="center">
      <img src="docs/figure4.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.4
 </p>
 
 Lastly, do not forget to summarize this section:
 <p align="center">
      <img src="docs/figure5.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.5
 </p>
 
 ### Section IV: Dr. Ma is well-positioned to advance the proposed endeavor
@@ -92,12 +87,10 @@ This section is also a very important section to show how you meet the criterion
 Again, show your educational background.
 <p align="center">
      <img src="docs/figure8.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.6
 </p>
 Also, we may show your reviews in this subsection as follows:
 <p align="center">
      <img src="docs/figure9.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.7
 </p>
 
 #### Record of Success in Related or Similar Efforts and Interest of Relevant Individuals
@@ -112,14 +105,12 @@ In this section, you may show:
 Actually, this section just follows the framework and that's enough.
 <p align="center">
      <img src="docs/figure6.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.8
 </p>
 
 ### Section VI: Conclusion
 Summarize the petition letter.
 <p align="center">
      <img src="docs/figure7.png" alt="output_example" width="80%" height="80%">
-     <br>Figure.9
 </p>
 
 <p align="center">
